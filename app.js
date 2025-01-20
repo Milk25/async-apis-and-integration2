@@ -50,4 +50,9 @@ function updateUI(characters) {
       updateUI(characters);
     }
   });
-  
+
+
+
+
+
+
